@@ -2,13 +2,4 @@
 
 This **Option Pricing Repositary** aims to explore various option pricing models, ranging from standard to exotic, implemented in Python. Each exercise includes theoretical explanations, Python implementations, and practical examples.
 
-## Table of Contents
-
-- [Standard Models]
-  - [Black-Scholes Model](notebooks/01_Black-Scholes.ipynb)
-  - [Binomial Tree Model](notebooks/02_Binomial_Model.ipynb)
-  - [Monte Carlo Simulation](notebooks/03_Monte_Carlo_Simulation.ipynb)
-- [Exotic Models]
-  - [Asian Options](notebooks/04_Asian_Options.ipynb)
-  - [Barrier Options](notebooks/05_Barrier_Options.ipynb)
-  - [Lookback Options](notebooks/06_Lookback_Options.ipynb)
+Option pricing is a cornerstone of financial engineering and quantitative analysis. Accurate pricing models are essential for valuing derivatives, managing risk, and making informed investment decisions. Understanding these models not only enhances financial acumen but also equips practitioners with the tools to tackle complex financial instruments.
