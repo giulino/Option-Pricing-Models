@@ -4,16 +4,11 @@ This **Option Pricing Repositary** aims to explore various option pricing models
 
 ## Table of Contents
 
-- [Introduction](docs/introduction.md)
-- [Standard Models](notebooks/standard_models/)
+- [Standard Models]
   - [Black-Scholes Model](notebooks/01_Black-Scholes.ipynb)
   - [Binomial Tree Model](notebooks/02_Binomial_Model.ipynb)
   - [Monte Carlo Simulation](notebooks/03_Monte_Carlo_Simulation.ipynb)
-- [Exotic Models](notebooks/exotic_models/)
+- [Exotic Models]
   - [Asian Options](notebooks/04_Asian_Options.ipynb)
   - [Barrier Options](notebooks/05_Barrier_Options.ipynb)
   - [Lookback Options](notebooks/06_Lookback_Options.ipynb)
-- [Scripts](scripts/)
-- [Models Package](models/)
-- [Tests](tests/)
-- [Documentation](docs/)
