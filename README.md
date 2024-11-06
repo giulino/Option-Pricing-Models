@@ -1,6 +1,6 @@
 # Option Pricing Models in Python
 
-Welcome to the **Option Pricing Exercises** repository! This project aims to explore various option pricing models, ranging from standard to exotic, implemented in Python. Each exercise includes theoretical explanations, Python implementations, and practical examples.
+This **Option Pricing Exercises** aims to explore various option pricing models, ranging from standard to exotic, implemented in Python. Each exercise includes theoretical explanations, Python implementations, and practical examples.
 
 ## Table of Contents
 
